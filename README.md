@@ -9,3 +9,5 @@ it easier to injection mold the entire frame.
 * The molds can be cut with 1/16" end mills for faster production of molds (no EDM required)
 
 This is part of a collborate effort by teh Washington State 3D Face Shield Hub on Facebook: https://www.facebook.com/groups/209781503693623/
+
+![Frame](IMFrame.PNG)

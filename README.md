@@ -11,3 +11,9 @@ it easier to injection mold the entire frame.
 This is part of a collborate effort by teh Washington State 3D Face Shield Hub on Facebook: https://www.facebook.com/groups/209781503693623/
 
 ![Frame](IMFrame.PNG)
+
+This frame is best used with the "origami" shield developed by the PNWS group:
+
+[Origami Shield](https://github.com/mrjonny2/PNWS/tree/master/128827-02%20FABRICATION%20PACKAGE/128839%20FACESHIELD%20ORIGAMI%20PNWS)
+
+![Shield](OrigamiShield.jpg)
